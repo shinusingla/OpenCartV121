@@ -1,0 +1,1 @@
+cd C:\Users\shinu\OpencartV121>mvn install clean
